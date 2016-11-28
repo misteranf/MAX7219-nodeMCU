@@ -1,7 +1,6 @@
 -- This module is designed to control 8 digit 7segdisplay
 -- Inspired by http://frightanic.com/iot/nodemcu-max7219-8x8-led-matrix-display/
 -- based on MAX7219 It has basic set of regisers defined below
--- no decimal point support yet, but you have to write 0xF5 to get "5." displayed instead of 0x05 for simply "5".
 -- written by Antons M, usping parts from http://frightanic.com/iot/nodemcu-max7219-8x8-led-matrix-display/
 -- License: http://www.wtfpl.net/
 
